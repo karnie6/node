@@ -1,3 +1,4 @@
 {
-	"host":"http://localhost:3000"
+	"host":"http://localhost:3000",
+	"dbURL": "mongodb://chatcat:chatcat@ds039175.mongolab.com:39175/karthik"
 }
